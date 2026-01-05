@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>  //factorial=> 4!=24
 int main()
 {
 	int n,prod=1;
